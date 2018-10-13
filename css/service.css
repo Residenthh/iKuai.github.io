@@ -1,0 +1,135 @@
+.H20{
+	height: 20px;
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+.H40{
+	height: 40px;
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+.H5{
+	height: 5px;
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+.H30{
+	height: 30px;
+    display: block;
+    overflow: hidden;
+    clear: both;	
+}
+.H10{
+	height: 10px;
+    display: block;
+    overflow: hidden;
+    clear: both;
+}
+.repair,
+.repairs {
+	margin: 0 auto;
+	display: table;
+	overflow: hidden;
+	margin-bottom: 20px;
+	padding-top: 20px;
+}
+
+.repair li {
+	display: inline-block;
+	float: left;
+	padding: 5px 25px;
+	font-size: 14px;
+	cursor: pointer;
+	margin: 10px 10px 0px 10px;
+	border-radius: 4px;
+	background-color: transparent;
+	border: 1px solid transparent;
+}
+
+.repair li:hover {
+	background-color: transparent;
+	border: 1px solid #9b9b9b;
+}
+
+.repair li.pitch,
+.repair li.pitch:hover {
+	color: #fff;
+	background-color: #0088cc;
+}
+
+.repairs .repair_title {
+	font-size: 18px;
+	color: #666;
+	font-weight: bold;
+}
+
+.repairs div {
+	color: #666666;
+	font-size: 14px;
+}
+
+.repairs div.txt {
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.repairs div.txt span {
+	position: absolute;
+	line-height: 28px;
+	left: -10px;
+}
+
+.repairs {
+	margin-bottom: 70px;
+}
+
+.tels {
+	color: #ff3500;
+	font-size: 20px;
+	font-style: normal;
+}
+
+.should {
+	color: #ff3500;
+	font-style: normal;
+}
+
+.repairs .repair_titles {
+	color: #0088cc;
+	font-size: 16px;
+}
+
+.customize h3 {
+	font-size: 24px;
+	color: #0088cc;
+	font-weight: inherit;
+	margin: 10px auto;
+	line-height: 30px;
+}
+ .repairs {
+    margin-bottom: 70px;
+}
+.repairs .repair_title {
+    font-size: 18px;
+    color: #666;
+    font-weight: bold;
+}
+.repairs div {
+    color: #666666;
+    font-size: 14px;
+}
+.repairs .repair_titles {
+    color: #0088cc;
+    font-size: 16px;
+}
+.repairs div.txt {
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    position: relative;
+}
